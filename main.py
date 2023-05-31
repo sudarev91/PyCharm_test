@@ -1,3 +1,3 @@
-from funcs import total
+from funcs import diff
 
-print(total(1, 2))
+print(diff(3, 1))
